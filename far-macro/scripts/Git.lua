@@ -1,4 +1,4 @@
-
+﻿
 local GitMacros = require("Git")
 
 local far3bis = false
