@@ -66,7 +66,7 @@ end;
 Macro
 {
     area="Editor";
-    key="AltLeft";
+    key="CtrlAltLeft";
     description="Previous 'stack' bookmark";
 action = function()
   BM.Back()
@@ -76,7 +76,7 @@ end;
 Macro
 {
     area="Editor";
-    key="AltRight";
+    key="CtrlAltRight";
     description="Next 'stack' bookmark";
 action = function()
   BM.Next()
@@ -187,7 +187,7 @@ end;
 Macro
 {
     area="Editor";
-    --key="ShiftF7 F3";
+    key="ShiftF7 F3";
     description="EditorFind: Продолжить последнее действие (поиск/замена)";
 action = function()
   BM.Add()
@@ -198,7 +198,7 @@ end;
 Macro
 {
     area="Editor";
-    --key="AltShiftF7";
+    key="AltShiftF7";
     description="EditorFind: Продолжить назад последнее действие (поиск/замена)";
 action = function()
   BM.Add()
@@ -222,7 +222,7 @@ end;
 Macro
 {
     area="Editor";
-    key="CtrlAltLeft";
+    key="CtrlAltShiftLeft";
     description="Scroll editor window leftward";
 action = function()
   Editor.Pos(1,5,Editor.Pos(0,5)-1);
@@ -233,7 +233,7 @@ end;
 Macro
 {
     area="Editor";
-    key="CtrlAltRight";
+    key="CtrlAltShiftRight";
     description="Scroll editor window rightward";
 action = function()
   Editor.Pos(1,5,Editor.Pos(0,5)+1);
@@ -265,7 +265,7 @@ end;
 Macro
 {
     area="Editor";
-    --key="CtrlF7";
+    key="CtrlF7";
     description="EditorFind: Если есть выделение - 'Replace word...', иначе 'Replace...'";
 action = function()
   -- %s=Selected;  F11  $if (menu.Select("Editor Find",2)<=0) MsgBox("Editor Find","Plugin was not found in list!",1) $Exit $end  Enter $if (%s) 4 $else 3 $end
@@ -289,7 +289,7 @@ end;
 Macro
 {
     area="Editor";
-    --key="F7";
+    key="F7";
     description="EditorFind: Если есть выделение - 'Find word...', иначе 'Find...'";
 action = function()
   -- %s=Selected;  F11  $if (menu.Select("Editor Find",2)<=0) MsgBox("Editor Find","Plugin was not found in list!",1) $Exit $end  Enter $if (%s) 2 $else 1 $end
@@ -313,7 +313,7 @@ end;
 Macro
 {
     area="Editor";
-    --key="CtrlG";
+    key="CtrlG";
     description="EditorFind: Искать конфликты git-merge";
 action = function()
   BM.Add();
@@ -324,7 +324,7 @@ end;
 Macro
 {
     area="Editor";
-    --key="CtrlAltF7";
+    key="CtrlAltF7";
     description="EditorFind: Начать поиск по clip() или выделению";
 action = function()
   BM.Add()

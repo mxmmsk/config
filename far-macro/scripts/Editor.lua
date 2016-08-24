@@ -11,7 +11,7 @@ end;
 
 Macro {
   area = "Editor";
-  key = "F3";
+  --key = "F3";
   description = "Continue search";
 action = function()
   BM.Add()
@@ -21,7 +21,7 @@ end;
 
 Macro {
   area = "Editor";
-  key = "F7 ShiftF7";
+  --key = "F7 ShiftF7";
   description = "Editor find + Bookmarks";
 action = function()
   BM.Add()
