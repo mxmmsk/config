@@ -1,0 +1,35 @@
+.Language=English,English (English)
+.PluginContents=Color Picker
+
+@Contents
+$ #Color Picker v1.0#
+  This is an extremely simple plugin to open the standard Color Picker dialog.
+
+  Using the file #install.reg# you can set this plugin to use #F4# key in the Editor.
+  Alternatively, you can, of course, set any other key.
+
+  Differences from the True Color plugin:
+  * Initial color is set by the value under cursor (good for quick preview of the color).
+  * Doesn't write "error" if the Color Picker was closed by Esc or Cancel - in this case it simply does nothing.
+  * Doesn't require the Borland DLL (#800+# Kb).
+
+  ~Configuration~@config@
+
+  2010 (c) #Alex Z# (~ztrekr@@gmail.com~)
+
+
+@config
+$ #Color Picker configuration#
+
+  The color string format is defined as a C language string.
+
+  It is used inside the plugin like this:
+
+  #printf(format, R, G, B);#
+
+  By default the format is set for editing HTML files: #"##%02X%02X%02X"#.
+
+  Example:
+  
+  #"(%u, %u, %u)"# will print RGB decimal values, like #"(64, 128, 255)"#
+
