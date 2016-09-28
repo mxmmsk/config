@@ -1,0 +1,1906 @@
+Archive member included to satisfy reference by file (symbol)
+
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+                              ../o/um_manage_user.o (NetUserSetInfo@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+                              ../o/um_manage_user.o (NetUserGetInfo@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+                              ../o/userman.o (NetUserEnum@32)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+                              ../o/um_dels.o (NetUserDel@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+                              ../o/um_manage_user.o (NetUserAdd@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+                              ../o/um_dialogs2.o (NetShareSetInfo@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+                              ../o/um_dialogs2.o (NetShareGetInfo@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+                              ../o/userman.o (NetShareEnum@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+                              ../o/um_dels.o (NetShareDel@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+                              ../o/um_dialogs2.o (NetShareAdd@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+                              ../o/um_computer.o (NetQueryDisplayInformation@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+                              ../o/um_manage_group.o (NetLocalGroupSetInfo@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+                              ../o/userman.o (NetLocalGroupGetMembers@32)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+                              ../o/um_manage_group.o (NetLocalGroupGetInfo@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+                              ../o/userman.o (NetLocalGroupEnum@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+                              ../o/um_dels.o (NetLocalGroupDelMembers@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+                              ../o/um_dels.o (NetLocalGroupDel@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+                              ../o/um_adds.o (NetLocalGroupAddMembers@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+                              ../o/um_manage_group.o (NetLocalGroupAdd@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+                              ../o/um_manage_group.o (NetGroupSetInfo@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+                              ../o/userman.o (NetGroupGetUsers@32)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+                              ../o/um_manage_group.o (NetGroupGetInfo@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+                              ../o/userman.o (NetGroupEnum@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+                              ../o/um_dels.o (NetGroupDelUser@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+                              ../o/um_dels.o (NetGroupDel@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+                              ../o/um_adds.o (NetGroupAddUser@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+                              ../o/um_manage_group.o (NetGroupAdd@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+                              ../o/userman.o (NetGetDCName@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+                              ../o/userman.o (NetGetAnyDCName@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+                              ../o/userman.o (NetApiBufferFree@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o) (_head_lib32_libnetapi32_a)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o) (_lib32_libnetapi32_a_iname)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+                              ../o/far_helper.o (wcsncpy)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+                              ../o/userman.o (wcsncmp)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+                              ../o/far_helper.o (wcslen)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+                              ../o/userman.o (wcscpy)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+                              ../o/userman.o (wcscmp)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+                              ../o/userman.o (wcschr)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+                              ../o/userman.o (wcscat)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+                              ../o/userman.o (memmove)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+                              ../o/userman.o (memcmp)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+                              ../o/um_utils.o (_imp___wcsnicmp)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+                              ../o/userman.o (_imp___wcsicmp)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+                              ../o/um_sid_string.o (RtlFreeUnicodeString@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+                              ../o/um_sid_string.o (RtlConvertSidToUnicodeString@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o) (_head_lib32_libntdll_a)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o) (_lib32_libntdll_a_iname)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+                              ../o/um_dialogs2.o (SetPrinterW@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+                              ../o/userman.o (OpenPrinterW@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+                              ../o/userman.o (GetPrinterW@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+                              ../o/userman.o (ClosePrinter@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o) (_head_lib32_libwinspool_a)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o) (_lib32_libwinspool_a_iname)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+                              ../o/um_manage_user.o (__chkstk_ms)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+                              ../o/um_arrays.o (SetSecurityDescriptorSacl@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+                              ../o/um_adds_internal.o (_imp__SetSecurityDescriptorOwner@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+                              ../o/um_arrays.o (SetSecurityDescriptorDacl@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+                              ../o/um_childs.o (_imp__SetFileSecurityW@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+                              ../o/um_childs.o (_imp__RegSetKeySecurity@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+                              ../o/um_utils.o (_imp__RegOpenKeyExW@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+                              ../o/um_arrays.o (_imp__RegGetKeySecurity@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+                              ../o/um_childs.o (_imp__RegEnumKeyW@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+                              ../o/um_utils.o (_imp__RegCreateKeyExW@36)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+                              ../o/um_childs.o (_imp__RegCloseKey@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+                              ../o/um_utils.o (_imp__OpenProcessToken@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+                              ../o/um_acl.o (_imp__MakeAbsoluteSD@44)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+                              ../o/um_dels.o (LsaRemoveAccountRights@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+                              ../o/um_utils.o (LsaOpenPolicy@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+                              ../o/um_utils.o (LsaNtStatusToWinError@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+                              ../o/userman.o (LsaFreeMemory@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+                              ../o/userman.o (LsaEnumerateAccountsWithUserRight@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+                              ../o/userman.o (LsaClose@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+                              ../o/um_adds.o (LsaAddAccountRights@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+                              ../o/um_utils.o (_imp__LookupPrivilegeValueW@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+                              ../o/um_sid_cache.o (_imp__LookupAccountSidW@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+                              ../o/userman.o (_imp__LookupAccountNameW@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+                              ../o/um_acl.o (_imp__IsValidSid@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+                              ../o/um_utils.o (_imp__InitializeSecurityDescriptor@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+                              ../o/um_utils.o (_imp__InitializeAcl@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+                              ../o/um_utils.o (_imp__GetTokenInformation@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+                              ../o/um_arrays.o (GetSecurityDescriptorSacl@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+                              ../o/um_arrays.o (_imp__GetSecurityDescriptorOwner@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+                              ../o/um_arrays.o (_imp__GetSecurityDescriptorLength@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+                              ../o/um_arrays.o (GetSecurityDescriptorDacl@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+                              ../o/um_utils.o (_imp__GetLengthSid@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+                              ../o/um_arrays.o (_imp__GetFileSecurityW@20)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+                              ../o/um_acl.o (_imp__GetAclInformation@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+                              ../o/um_acl.o (_imp__GetAce@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+                              ../o/um_utils.o (_imp__FreeSid@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+                              ../o/um_acl.o (_imp__EqualSid@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+                              ../o/um_acl.o (_imp__CopySid@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+                              ../o/userman.o (_imp__AllocateAndInitializeSid@44)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+                              ../o/um_utils.o (_imp__AdjustTokenPrivileges@24)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+                              ../o/um_acl.o (_imp__AddAuditAccessAce@24)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+                              ../o/um_acl.o (_imp__AddAccessDeniedAce@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+                              ../o/um_utils.o (_imp__AddAccessAllowedAce@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o) (_head_lib32_libadvapi32_a)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o) (_lib32_libadvapi32_a_iname)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+                              ../o/um_utils.o (_imp__SetLastError@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+                              ../o/far_helper.o (HeapReAlloc@16)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+                              ../o/far_helper.o (HeapFree@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+                              ../o/far_helper.o (HeapAlloc@12)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+                              ../o/far_helper.o (GetProcessHeap@0)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+                              ../o/userman.o (_imp__GetLastError@0)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+                              ../o/userman.o (_imp__GetFileAttributesW@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+                              ../o/um_utils.o (_imp__GetCurrentProcess@0)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+                              ../o/um_childs.o (_imp__FindNextFileW@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+                              ../o/um_childs.o (_imp__FindFirstFileW@8)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+                              ../o/um_childs.o (_imp__FindClose@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+                              ../o/um_utils.o (_imp__CreateFileW@28)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+                              ../o/um_utils.o (_imp__CloseHandle@4)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o) (_head_lib32_libkernel32_a)
+T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+                              T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o) (_lib32_libkernel32_a_iname)
+
+Discarded input sections
+
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+ .text          0x00000000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x68380000                __image_base__ = 0x68380000
+                0x00000001                __dll__ = 0x1
+                0x68380000                ___ImageBase = 0x68380000
+                0x00001000                __section_alignment__ = 0x1000
+                0x00000200                __file_alignment__ = 0x200
+                0x00000004                __major_os_version__ = 0x4
+                0x00000000                __minor_os_version__ = 0x0
+                0x00000001                __major_image_version__ = 0x1
+                0x00000000                __minor_image_version__ = 0x0
+                0x00000004                __major_subsystem_version__ = 0x4
+                0x00000000                __minor_subsystem_version__ = 0x0
+                0x00000003                __subsystem__ = 0x3
+                0x00200000                __size_of_stack_reserve__ = 0x200000
+                0x00001000                __size_of_stack_commit__ = 0x1000
+                0x00100000                __size_of_heap_reserve__ = 0x100000
+                0x00001000                __size_of_heap_commit__ = 0x1000
+                0x00000000                __loader_flags__ = 0x0
+                0x00000000                __dll_characteristics__ = 0x0
+LOAD ../o/far_helper.o
+LOAD ../o/userman.o
+LOAD ../o/um_utils.o
+LOAD ../o/um_sid_string.o
+LOAD ../o/um_dialogs0.o
+LOAD ../o/um_dialogs1.o
+LOAD ../o/um_dialogs2.o
+LOAD ../o/um_computer.o
+LOAD ../o/um_adds.o
+LOAD ../o/um_adds_internal.o
+LOAD ../o/um_dels.o
+LOAD ../o/um_manage_user.o
+LOAD ../o/um_manage_group.o
+LOAD ../o/um_acl.o
+LOAD ../o/um_childs.o
+LOAD ../o/um_arrays.o
+LOAD ../o/um_config.o
+LOAD ../o/um_userdata.o
+LOAD ../o/um_sid_cache.o
+LOAD ../o/um_current_user.o
+LOAD ../o/userman.res.o
+LOAD ../bin/userman.dll.exp
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmingw32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc_eh.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmoldname.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmingwex.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmsvcrt.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libpthread.dll.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libshell32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libuser32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmingw32.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc_eh.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmoldname.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmingwex.a
+LOAD T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libmsvcrt.a
+                0x000002e0                . = SIZEOF_HEADERS
+                0x00001000                . = ALIGN (__section_alignment__)
+
+.text           0x68381000     0xd200
+ *(.init)
+ .init          0x68381000        0x0 ../bin/userman.dll.exp
+ *(.text)
+ .text          0x68381000      0x888 ../o/far_helper.o
+                0x68381000                Realloc(wchar_t*&, int&, int)
+                0x68381096                Realloc(PluginPanelItem*&, int&, int)
+                0x68381128                CFarDialog::~CFarDialog()
+                0x68381128                CFarDialog::~CFarDialog()
+                0x6838113c                CFarDialog::Execute(_GUID const&, _GUID const&, int, int, int, int, wchar_t const*, FarDialogItem*, int, unsigned long, unsigned long, int (*)(void*, int, int, void*), void*)
+                0x683811c4                CFarDialog::Str(int)
+                0x683811f4                CFarDialog::Check(int)
+                0x68381224                CFarDialog::Type(int)
+                0x6838125c                CFarPanel::CFarPanel(void*, FILE_CONTROL_COMMANDS)
+                0x6838125c                CFarPanel::CFarPanel(void*, FILE_CONTROL_COMMANDS)
+                0x683812ba                CFarPanel::~CFarPanel()
+                0x683812ba                CFarPanel::~CFarPanel()
+                0x68381312                CFarPanel::CurDir()
+                0x683813f0                CFarPanel::operator[](unsigned int)
+                0x6838147c                CFarPanel::Selected(unsigned int)
+                0x68381508                CFarPanelSelection::CFarPanelSelection(void*, bool)
+                0x68381508                CFarPanelSelection::CFarPanelSelection(void*, bool)
+                0x68381564                CFarPanelSelection::~CFarPanelSelection()
+                0x68381564                CFarPanelSelection::~CFarPanelSelection()
+                0x68381594                CFarPanelSelection::operator[](unsigned int)
+                0x6838162e                CFarSettings::CFarSettings(_GUID const&)
+                0x6838162e                CFarSettings::CFarSettings(_GUID const&)
+                0x683816a6                CFarSettings::~CFarSettings()
+                0x683816a6                CFarSettings::~CFarSettings()
+                0x683816d4                CFarSettings::Set(wchar_t const*, long long)
+                0x6838172a                CFarSettings::Set(wchar_t const*, wchar_t const*)
+                0x6838178e                CFarSettings::Get(wchar_t const*, long long&)
+                0x683817fe                CFarSettings::Get(wchar_t const*, wchar_t*, unsigned int)
+ .text          0x68381888     0x2ef8 ../o/userman.o
+                0x68381a52                GetGlobalInfoW@4
+                0x68381acd                SetStartupInfoW@4
+                0x68381d89                GetPluginInfoW@4
+                0x68381e48                OpenW@4
+                0x68382451                ClosePanelW@4
+                0x68382485                GetFindDataW@4
+                0x68383a7e                SetDirectoryW@4
+                0x68383a96                FreeFindDataW@4
+                0x68383c67                GetOpenPanelInfoW@4
+                0x68384068                ProcessPanelInputW@4
+                0x683846e7                ConfigureW@4
+                0x683846f5                ExitFARW@4
+                0x68384708                CompareW@4
+                0x68384778                DllMainCRTStartup@12
+ .text          0x68384780      0xe5c ../o/um_utils.o
+                0x68384780                GetMsg(int)
+                0x6838479e                ShowError(unsigned long)
+                0x68384822                ShowCustomError(int)
+                0x683848a1                GetCurrentPath(int, wchar_t*, wchar_t*)
+                0x68384ab1                generic_mask_to_file_mask(unsigned long)
+                0x68384af9                generic_mask_to_reg_mask(unsigned long)
+                0x68384b41                generic_mask_to_printer_mask(unsigned long)
+                0x68384b89                generic_mask_to_job_mask(unsigned long)
+                0x68384bd1                EnablePrivilege(wchar_t const*)
+                0x68384c7a                IsPrivilegeEnabled(wchar_t const*)
+                0x68384dc8                CheckChDir(void*, wchar_t const*, wchar_t*, wchar_t*, int*)
+                0x68384eff                NumberType(int)
+                0x68384f38                CreateDefaultSD()
+                0x68384fca                CreateDefaultAcl(int)
+                0x683850f8                get_access_string(int, int)
+                0x683851a3                wcsaddendslash(wchar_t*)
+                0x683851eb                parse_dir(wchar_t*, wchar_t const*, wchar_t const*, int, unsigned long*, wchar_t*, wchar_t*)
+                0x683854d4                GetPolicyHandle(wchar_t*)
+                0x68385553                RegOpenBackupKeyExW(HKEY__*, wchar_t const*, unsigned long, HKEY__**)
+ .text          0x683855dc       0x94 ../o/um_sid_string.o
+                0x683855dc                get_sid_string(void*)
+ .text          0x68385670      0x65c ../o/um_dialogs0.o
+                0x6838578d                EditCommonAccess(UserManager*)
+ .text          0x68385ccc      0x648 ../o/um_dialogs1.o
+                0x683861d1                EditFileAdvancedAccess(UserManager*)
+                0x68386230                EditRegAdvancedAccess(UserManager*)
+                0x6838627c                EditPrinterAdvancedAccess(UserManager*)
+                0x683862c8                EditJobAdvancedAccess(UserManager*)
+ .text          0x68386314      0xbf8 ../o/um_dialogs2.o
+                0x683864ad                EditShareProperties(UserManager*)
+                0x68386acd                AddShare(UserManager*)
+ .text          0x68386f0c      0x42c ../o/um_computer.o
+                0x68386f6c                GetComputer(UserManager*, bool)
+ .text          0x68387338      0x3c4 ../o/um_adds.o
+                0x68387338                AddOwner(UserManager*, UserManager*, bool)
+                0x683873d2                AddACE(UserManager*, UserManager*, bool)
+                0x683874c9                AddUserToGroup(UserManager*, UserManager*, bool)
+                0x683875f7                AddUserToRight(UserManager*, UserManager*, bool)
+ .text          0x683876fc       0xbc ../o/um_adds_internal.o
+                0x683876fc                AddOwnerInternal(UserManager*, void*)
+ .text          0x683877b8      0xe4c ../o/um_dels.o
+                0x683877b8                TakeOwnership(UserManager*, bool)
+                0x683877d6                DeleteACE(UserManager*, bool)
+                0x68387a55                DeleteShare(UserManager*, bool)
+                0x68387d6e                DeleteGroup(UserManager*, bool)
+                0x68387fbc                RemoveUser(UserManager*, bool)
+                0x683881ea                DeleteUser(UserManager*, bool)
+                0x683883bc                DeleteRightUsers(UserManager*, bool)
+ .text          0x68388604     0x1ca4 ../o/um_manage_user.o
+                0x6838874b                UpdateFullname(wchar_t*, wchar_t*, wchar_t*)
+                0x68388789                UpdateDescription(wchar_t*, wchar_t*, wchar_t*)
+                0x683887c7                UpdateComment(wchar_t*, wchar_t*, wchar_t*)
+                0x68388805                UpdatePwd(wchar_t*, wchar_t*, wchar_t*)
+                0x68388843                UpdateProfile(wchar_t*, wchar_t*, wchar_t*)
+                0x68388881                UpdateScript(wchar_t*, wchar_t*, wchar_t*)
+                0x683888bf                UpdateDrive(wchar_t*, wchar_t*, wchar_t*)
+                0x683888fd                UpdateDir(wchar_t*, wchar_t*, wchar_t*)
+                0x6838893b                UpdateWorkstations(wchar_t*, wchar_t*, wchar_t*)
+                0x68388979                UpdateParams(wchar_t*, wchar_t*, wchar_t*)
+                0x683889f2                UpdateExpired(wchar_t*, wchar_t*, wchar_t*)
+                0x68388a6d                UpdateName(wchar_t*, wchar_t*, wchar_t*)
+                0x68389595                UpdateFlag(wchar_t*, wchar_t*, int, unsigned long)
+                0x68389626                UpdateFlag1(wchar_t*, wchar_t*, wchar_t*)
+                0x68389653                UpdateFlag2(wchar_t*, wchar_t*, wchar_t*)
+                0x68389680                UpdateFlag3(wchar_t*, wchar_t*, wchar_t*)
+                0x683896ad                UpdateFlag4(wchar_t*, wchar_t*, wchar_t*)
+                0x683896da                ManageUser(UserManager*, bool)
+ .text          0x6838a2a8      0x66c ../o/um_manage_group.o
+                0x6838a394                ManageGroup(UserManager*, bool, wchar_t const*)
+ .text          0x6838a914      0xb68 ../o/um_acl.o
+                0x6838a914                GetAclState(int, unsigned char, unsigned long)
+                0x6838a975                FreeAcl(AclData*)
+                0x6838a9d3                GetAcl(UserManager*, int, AclData**)
+                0x6838ad1f                UpdateAcl(UserManager*, int, void*, int, unsigned long, int)
+ .text          0x6838b47c     0x1234 ../o/um_childs.o
+                0x6838bc3b                ProcessChilds(CFarPanel&)
+ .text          0x6838c6b0      0xd84 ../o/um_arrays.o
+                0x6838c6b0                CheckTypePerm(unsigned char, unsigned char, unsigned char*, unsigned long*)
+                0x6838c6fe                CheckTypePermInherited(unsigned char, unsigned char, unsigned char*, unsigned long*)
+                0x6838c772                CheckTypeAudit(unsigned char, unsigned char, unsigned char*, unsigned long*)
+                0x6838c7c0                CheckTypeInheritedAudit(unsigned char, unsigned char, unsigned char*, unsigned long*)
+                0x6838c841                get_plain_panel_title(wchar_t const*)
+                0x6838c844                GetFileOwner(UserManager*, void**, wchar_t**)
+                0x6838c97b                GetFileSD(UserManager*, unsigned long)
+                0x6838ca42                GetRegOwner(UserManager*, void**, wchar_t**)
+                0x6838cb9c                GetRegSD(UserManager*, unsigned long)
+                0x6838cc92                GetPrinterOwner(UserManager*, void**, wchar_t**)
+                0x6838ce0a                GetPrinterSD(UserManager*, unsigned long)
+                0x6838cf69                GetShareSD(UserManager*, unsigned long)
+                0x6838d011                SetFileSD(UserManager*, unsigned long, void*)
+                0x6838d042                SetRegSD(UserManager*, unsigned long, void*)
+                0x6838d0b7                SetShareSD(UserManager*, unsigned long, void*)
+                0x6838d143                SetPrinterSD(UserManager*, unsigned long, void*)
+                0x6838d22e                get_user_panel_title(wchar_t const*)
+                0x6838d279                get_access_panel_title(wchar_t const*)
+                0x6838d2fb                get_audit_panel_title(wchar_t const*)
+                0x6838d37d                get_share_panel_title(wchar_t const*)
+ .text          0x6838d434      0x520 ../o/um_config.o
+                0x6838d43e                Config()
+ .text          0x6838d954      0x188 ../o/um_userdata.o
+                0x6838d985                AddDefaultUserdata(PluginPanelItem*, int, int, int, void*, wchar_t const*, wchar_t const*)
+                0x6838dab4                GetLevelFromUserData(void*)
+                0x6838dabc                GetSortOrderFromUserData(void*)
+                0x6838dac4                GetItemTypeFromUserData(void*)
+                0x6838dacc                GetSidFromUserData(void*)
+                0x6838dad4                GetWideNameFromUserData(void*)
+ .text          0x6838dadc      0x304 ../o/um_sid_cache.o
+                0x6838dadc                free_sid_cache()
+                0x6838db5a                GetUserNameEx(wchar_t*, void*, bool, wchar_t**)
+ .text          0x6838dde0      0x1f8 ../o/um_current_user.o
+                0x6838dde0                init_current_user()
+                0x6838df42                is_current_user(void*)
+                0x6838df96                current_user()
+                0x6838df9c                free_current_user()
+ .text          0x6838dfd8        0x0 ../bin/userman.dll.exp
+ .text          0x6838dfd8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+                0x6838dfd8                NetUserSetInfo@20
+ .text          0x6838dfe0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+                0x6838dfe0                NetUserGetInfo@16
+ .text          0x6838dfe8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+                0x6838dfe8                NetUserEnum@32
+ .text          0x6838dff0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+                0x6838dff0                NetUserDel@8
+ .text          0x6838dff8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+                0x6838dff8                NetUserAdd@16
+ .text          0x6838e000        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+                0x6838e000                NetShareSetInfo@20
+ .text          0x6838e008        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+                0x6838e008                NetShareGetInfo@16
+ .text          0x6838e010        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+                0x6838e010                NetShareEnum@28
+ .text          0x6838e018        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+                0x6838e018                NetShareDel@12
+ .text          0x6838e020        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+                0x6838e020                NetShareAdd@16
+ .text          0x6838e028        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+                0x6838e028                NetQueryDisplayInformation@28
+ .text          0x6838e030        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+                0x6838e030                NetLocalGroupSetInfo@20
+ .text          0x6838e038        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+                0x6838e038                NetLocalGroupGetMembers@32
+ .text          0x6838e040        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+                0x6838e040                NetLocalGroupGetInfo@16
+ .text          0x6838e048        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+                0x6838e048                NetLocalGroupEnum@28
+ .text          0x6838e050        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+                0x6838e050                NetLocalGroupDelMembers@20
+ .text          0x6838e058        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+                0x6838e058                NetLocalGroupDel@8
+ .text          0x6838e060        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+                0x6838e060                NetLocalGroupAddMembers@20
+ .text          0x6838e068        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+                0x6838e068                NetLocalGroupAdd@16
+ .text          0x6838e070        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+                0x6838e070                NetGroupSetInfo@20
+ .text          0x6838e078        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+                0x6838e078                NetGroupGetUsers@32
+ .text          0x6838e080        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+                0x6838e080                NetGroupGetInfo@16
+ .text          0x6838e088        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+                0x6838e088                NetGroupEnum@28
+ .text          0x6838e090        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+                0x6838e090                NetGroupDelUser@12
+ .text          0x6838e098        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+                0x6838e098                NetGroupDel@8
+ .text          0x6838e0a0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+                0x6838e0a0                NetGroupAddUser@12
+ .text          0x6838e0a8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+                0x6838e0a8                NetGroupAdd@16
+ .text          0x6838e0b0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+                0x6838e0b0                NetGetDCName@12
+ .text          0x6838e0b8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+                0x6838e0b8                NetGetAnyDCName@12
+ .text          0x6838e0c0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+                0x6838e0c0                NetApiBufferFree@4
+ .text          0x6838e0c8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+ .text          0x6838e0c8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+ .text          0x6838e0c8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+                0x6838e0c8                wcsncpy
+ .text          0x6838e0d0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+                0x6838e0d0                wcsncmp
+ .text          0x6838e0d8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+                0x6838e0d8                wcslen
+ .text          0x6838e0e0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+                0x6838e0e0                wcscpy
+ .text          0x6838e0e8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+                0x6838e0e8                wcscmp
+ .text          0x6838e0f0        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+                0x6838e0f0                wcschr
+ .text          0x6838e0f8        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+                0x6838e0f8                wcscat
+ .text          0x6838e100        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+                0x6838e100                memmove
+ .text          0x6838e108        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+                0x6838e108                memcmp
+ .text          0x6838e110        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+                0x6838e110                RtlFreeUnicodeString@4
+ .text          0x6838e118        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+                0x6838e118                RtlConvertSidToUnicodeString@12
+ .text          0x6838e120        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+ .text          0x6838e120        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+ .text          0x6838e120        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+                0x6838e120                SetPrinterW@16
+ .text          0x6838e128        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+                0x6838e128                OpenPrinterW@12
+ .text          0x6838e130        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+                0x6838e130                GetPrinterW@20
+ .text          0x6838e138        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+                0x6838e138                ClosePrinter@4
+ .text          0x6838e140        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+ .text          0x6838e140        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+ .text          0x6838e140       0x2c T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+                0x6838e140                __chkstk_ms
+ .text          0x6838e16c        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+                0x6838e16c                SetSecurityDescriptorSacl@16
+ .text          0x6838e174        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+                0x6838e174                SetSecurityDescriptorDacl@16
+ .text          0x6838e17c        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+                0x6838e17c                LsaRemoveAccountRights@20
+ .text          0x6838e184        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+                0x6838e184                LsaOpenPolicy@16
+ .text          0x6838e18c        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+                0x6838e18c                LsaNtStatusToWinError@4
+ .text          0x6838e194        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+                0x6838e194                LsaFreeMemory@4
+ .text          0x6838e19c        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+                0x6838e19c                LsaEnumerateAccountsWithUserRight@16
+ .text          0x6838e1a4        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+                0x6838e1a4                LsaClose@4
+ .text          0x6838e1ac        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+                0x6838e1ac                LsaAddAccountRights@16
+ .text          0x6838e1b4        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+                0x6838e1b4                GetSecurityDescriptorSacl@16
+ .text          0x6838e1bc        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+                0x6838e1bc                GetSecurityDescriptorDacl@16
+ .text          0x6838e1c4        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+ .text          0x6838e1c4        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+ .text          0x6838e1c4        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+                0x6838e1c4                HeapReAlloc@16
+ .text          0x6838e1cc        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+                0x6838e1cc                HeapFree@12
+ .text          0x6838e1d4        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+                0x6838e1d4                HeapAlloc@12
+ .text          0x6838e1dc        0x8 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+                0x6838e1dc                GetProcessHeap@0
+ .text          0x6838e1e4        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+ .text          0x6838e1e4        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+ *(SORT(.text$*))
+ *(.text.*)
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/userman.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_utils.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_sid_string.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_dialogs0.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_dialogs1.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_dialogs2.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_computer.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_adds.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_adds_internal.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_dels.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_manage_user.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_manage_group.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_acl.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_childs.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_arrays.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_config.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_userdata.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_sid_cache.o
+ .text.unlikely
+                0x6838e1e4        0x0 ../o/um_current_user.o
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x6838e1e4                ___CTOR_LIST__ = .
+                0x6838e1e4                __CTOR_LIST__ = .
+                0x6838e1e4        0x4 LONG 0xffffffff
+ *(.ctors)
+ *(.ctor)
+ *(SORT(.ctors.*))
+                0x6838e1e8        0x4 LONG 0x0
+                0x6838e1ec                ___DTOR_LIST__ = .
+                0x6838e1ec                __DTOR_LIST__ = .
+                0x6838e1ec        0x4 LONG 0xffffffff
+ *(.dtors)
+ *(.dtor)
+ *(SORT(.dtors.*))
+                0x6838e1f0        0x4 LONG 0x0
+ *(.fini)
+ *(.gcc_exc)
+                [!provide]                PROVIDE (etext, .)
+                [!provide]                PROVIDE (_etext, .)
+ *(.gcc_except_table)
+
+.data           0x6838f000      0xa00
+                0x6838f000                __data_start__ = .
+ *(.data)
+ .data          0x6838f000        0x0 ../o/far_helper.o
+ .data          0x6838f000      0x7a0 ../o/userman.o
+                0x6838f160                AddPrivelegeNames
+                0x6838f1e0                AddPriveleges
+                0x6838f260                AddSID
+                0x6838f740                Opt
+                0x6838f780                IsOldFAR
+ .data          0x6838f7a0       0x30 ../o/um_utils.o
+ .data          0x6838f7d0        0x0 ../o/um_sid_string.o
+ .data          0x6838f7d0        0x0 ../o/um_dialogs0.o
+ *fill*         0x6838f7d0       0x10 
+ .data          0x6838f7e0      0x100 ../o/um_dialogs1.o
+ .data          0x6838f8e0        0x0 ../o/um_dialogs2.o
+ .data          0x6838f8e0        0x0 ../o/um_computer.o
+ .data          0x6838f8e0        0x0 ../o/um_adds.o
+ .data          0x6838f8e0        0x0 ../o/um_adds_internal.o
+ .data          0x6838f8e0        0x0 ../o/um_dels.o
+ .data          0x6838f8e0        0x0 ../o/um_manage_user.o
+ .data          0x6838f8e0        0x0 ../o/um_manage_group.o
+ .data          0x6838f8e0        0x0 ../o/um_acl.o
+ .data          0x6838f8e0        0x0 ../o/um_childs.o
+ .data          0x6838f8e0      0x120 ../o/um_arrays.o
+                0x6838f900                common_rights
+                0x6838f980                plain_dirs_dir
+ .data          0x6838fa00        0x0 ../o/um_config.o
+ .data          0x6838fa00        0x0 ../o/um_userdata.o
+ .data          0x6838fa00        0x0 ../o/um_sid_cache.o
+ .data          0x6838fa00        0x0 ../o/um_current_user.o
+ .data          0x6838fa00        0x0 ../bin/userman.dll.exp
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+ .data          0x6838fa00        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+ *(.data2)
+ *(SORT(.data$*))
+ *(.jcr)
+                0x6838fa00                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x68390000     0x3800
+ *(.rdata)
+ .rdata         0x68390000      0xe74 ../o/userman.o
+ *fill*         0x68390e74        0xc 
+ .rdata         0x68390e80      0x180 ../o/um_utils.o
+ .rdata         0x68391000       0x24 ../o/um_dialogs0.o
+ .rdata         0x68391024       0x28 ../o/um_dialogs1.o
+ .rdata         0x6839104c       0xa0 ../o/um_dialogs2.o
+ .rdata         0x683910ec       0x34 ../o/um_computer.o
+ .rdata         0x68391120      0x6c0 ../o/um_manage_user.o
+ .rdata         0x683917e0      0x47c ../o/um_manage_group.o
+ .rdata         0x68391c5c       0x2c ../o/um_acl.o
+ .rdata         0x68391c88       0x80 ../o/um_childs.o
+ *fill*         0x68391d08       0x18 
+ .rdata         0x68391d20     0x1340 ../o/um_arrays.o
+                0x68391d34                sort
+                0x68391d60                label_f7
+                0x68391de0                label_shift_f6
+                0x68391e60                label_f6
+                0x68391ee0                label_shift_f4
+                0x68391f60                label_alt_f4
+                0x68391fe0                label_f4
+                0x68392060                get_panel_titles
+                0x683920e0                panel_modes
+                0x68392160                common_full_access
+                0x68392240                default_acl
+                0x683922c0                default_mask
+                0x68392334                default_flags
+                0x68392354                default_type
+                0x68392380                press_f8
+                0x68392400                press_f7
+                0x68392480                press_f6
+                0x68392500                press_f5
+                0x68392574                press_f5_from
+                0x683925a0                press_alt_f4
+                0x68392620                press_shift_f4
+                0x683926a0                press_f4
+                0x68392720                title_type_string
+                0x68392794                title_type
+                0x683927b4                has_hostfile
+                0x683927e0                relative_types
+                0x68392a40                check_ace_type
+                0x68392ab4                check_ace_type_param
+                0x68392ad4                ace_types
+                0x68392b00                printer_security_descriptor_access_write
+                0x68392b40                printer_security_descriptor_access_read
+                0x68392b80                reg_security_descriptor_access_write
+                0x68392bc0                reg_security_descriptor_access_read
+                0x68392c00                set_security_descriptor_acl
+                0x68392c40                get_security_descriptor_acl
+                0x68392c80                set_security_descriptor
+                0x68392d00                get_security_descriptor
+                0x68392d80                security_information
+                0x68392df4                perm_dirs_dir
+                0x68392e20                plain_dirs_owners
+                0x68392f20                has_nonfixed_dirs
+                0x68392f40                nonfixed_dirs
+                0x68392f60                root_dirs
+                0x68392fe0                up_dirs
+ .rdata         0x68393060       0xbc ../o/um_config.o
+ .rdata         0x6839311c       0x20 ../o/um_sid_cache.o
+ *(SORT(.rdata$*))
+ .rdata$AddShareGuid
+                0x6839313c       0x10 ../o/userman.o
+                0x6839313c                AddShareGuid
+ .rdata$ConfigGuid
+                0x6839314c       0x10 ../o/userman.o
+                0x6839314c                ConfigGuid
+ .rdata$CustomErrorMessageGuid
+                0x6839315c       0x10 ../o/userman.o
+                0x6839315c                CustomErrorMessageGuid
+ .rdata$DelACEMessageGuid
+                0x6839316c       0x10 ../o/userman.o
+                0x6839316c                DelACEMessageGuid
+ .rdata$DelGroupMessageGuid
+                0x6839317c       0x10 ../o/userman.o
+                0x6839317c                DelGroupMessageGuid
+ .rdata$DelShareMessageGuid
+                0x6839318c       0x10 ../o/userman.o
+                0x6839318c                DelShareMessageGuid
+ .rdata$DelUserMessageGuid
+                0x6839319c       0x10 ../o/userman.o
+                0x6839319c                DelUserMessageGuid
+ .rdata$DiskGuid
+                0x683931ac       0x10 ../o/userman.o
+                0x683931ac                DiskGuid
+ .rdata$EditAdvancedAccessGuid
+                0x683931bc       0x10 ../o/userman.o
+                0x683931bc                EditAdvancedAccessGuid
+ .rdata$EditCommonAccessGuid
+                0x683931cc       0x10 ../o/userman.o
+                0x683931cc                EditCommonAccessGuid
+ .rdata$EditSharePropertiesGuid
+                0x683931dc       0x10 ../o/userman.o
+                0x683931dc                EditSharePropertiesGuid
+ .rdata$ErrorMessageGuid
+                0x683931ec       0x10 ../o/userman.o
+                0x683931ec                ErrorMessageGuid
+ .rdata$GetComputerGuid
+                0x683931fc       0x10 ../o/userman.o
+                0x683931fc                GetComputerGuid
+ .rdata$MainGuid
+                0x6839320c       0x10 ../o/userman.o
+                0x6839320c                MainGuid
+ .rdata$MainMenuGuid
+                0x6839321c       0x10 ../o/userman.o
+                0x6839321c                MainMenuGuid
+ .rdata$ManageGroupGuid
+                0x6839322c       0x10 ../o/userman.o
+                0x6839322c                ManageGroupGuid
+ .rdata$ManageUserGuid
+                0x6839323c       0x10 ../o/userman.o
+                0x6839323c                ManageUserGuid
+ .rdata$MenuGuid
+                0x6839324c       0x10 ../o/userman.o
+                0x6839324c                MenuGuid
+ .rdata$MessageGuid
+                0x6839325c       0x10 ../o/userman.o
+                0x6839325c                MessageGuid
+ .rdata$ProcessChildsGuid
+                0x6839326c       0x10 ../o/userman.o
+                0x6839326c                ProcessChildsGuid
+ .rdata$ProfileGuid
+                0x6839327c       0x10 ../o/userman.o
+                0x6839327c                ProfileGuid
+ .rdata$PwdErrorMessageGuid
+                0x6839328c       0x10 ../o/userman.o
+                0x6839328c                PwdErrorMessageGuid
+ .rdata$RemoveUserMessageGuid
+                0x6839329c       0x10 ../o/userman.o
+                0x6839329c                RemoveUserMessageGuid
+ .rdata$zzz     0x683932ac       0x14 ../o/far_helper.o
+ .rdata$zzz     0x683932c0       0x2c ../o/userman.o
+ .rdata$zzz     0x683932ec       0x2c ../o/um_utils.o
+ .rdata$zzz     0x68393318       0x2c ../o/um_sid_string.o
+ .rdata$zzz     0x68393344       0x2c ../o/um_dialogs0.o
+ .rdata$zzz     0x68393370       0x2c ../o/um_dialogs1.o
+ .rdata$zzz     0x6839339c       0x2c ../o/um_dialogs2.o
+ .rdata$zzz     0x683933c8       0x2c ../o/um_computer.o
+ .rdata$zzz     0x683933f4       0x2c ../o/um_adds.o
+ .rdata$zzz     0x68393420       0x2c ../o/um_adds_internal.o
+ .rdata$zzz     0x6839344c       0x2c ../o/um_dels.o
+ .rdata$zzz     0x68393478       0x2c ../o/um_manage_user.o
+ .rdata$zzz     0x683934a4       0x2c ../o/um_manage_group.o
+ .rdata$zzz     0x683934d0       0x2c ../o/um_acl.o
+ .rdata$zzz     0x683934fc       0x2c ../o/um_childs.o
+ .rdata$zzz     0x68393528       0x2c ../o/um_arrays.o
+ .rdata$zzz     0x68393554       0x2c ../o/um_config.o
+ .rdata$zzz     0x68393580       0x2c ../o/um_userdata.o
+ .rdata$zzz     0x683935ac       0x2c ../o/um_sid_cache.o
+ .rdata$zzz     0x683935d8       0x2c ../o/um_current_user.o
+                0x68393604                __rt_psrelocs_start = .
+ *(.rdata_runtime_pseudo_reloc)
+                0x68393604                __rt_psrelocs_end = .
+                0x00000000                __rt_psrelocs_size = (__rt_psrelocs_end - __rt_psrelocs_start)
+                0x68393604                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x68393604                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x68393604                ___RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+                0x68393604                __RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+
+.eh_frame       0x68394000     0x2e00
+ *(.eh_frame*)
+ .eh_frame      0x68394000      0x350 ../o/far_helper.o
+ .eh_frame      0x68394350      0x640 ../o/userman.o
+ .eh_frame      0x68394990      0x410 ../o/um_utils.o
+ .eh_frame      0x68394da0       0x68 ../o/um_sid_string.o
+ .eh_frame      0x68394e08      0x104 ../o/um_dialogs0.o
+ .eh_frame      0x68394f0c      0x1b8 ../o/um_dialogs1.o
+ .eh_frame      0x683950c4      0x1f8 ../o/um_dialogs2.o
+ .eh_frame      0x683952bc       0xdc ../o/um_computer.o
+ .eh_frame      0x68395398      0x190 ../o/um_adds.o
+ .eh_frame      0x68395528       0x70 ../o/um_adds_internal.o
+ .eh_frame      0x68395598      0x3b0 ../o/um_dels.o
+ .eh_frame      0x68395948      0x4b8 ../o/um_manage_user.o
+ .eh_frame      0x68395e00       0xe8 ../o/um_manage_group.o
+ .eh_frame      0x68395ee8      0x200 ../o/um_acl.o
+ .eh_frame      0x683960e8      0x2d0 ../o/um_childs.o
+ .eh_frame      0x683963b8      0x584 ../o/um_arrays.o
+ .eh_frame      0x6839693c       0xcc ../o/um_config.o
+ .eh_frame      0x68396a08      0x100 ../o/um_userdata.o
+ .eh_frame      0x68396b08       0xf8 ../o/um_sid_cache.o
+ .eh_frame      0x68396c00      0x114 ../o/um_current_user.o
+
+.pdata
+ *(.pdata)
+
+.bss            0x68397000      0xfd8
+                0x68397000                __bss_start__ = .
+ *(.bss)
+ .bss           0x68397000        0x0 ../o/far_helper.o
+ .bss           0x68397000      0xfc0 ../o/userman.o
+                0x68397000                FSF
+                0x683970c0                Info
+ .bss           0x68397fc0       0x10 ../o/um_utils.o
+ .bss           0x68397fd0        0x0 ../o/um_sid_string.o
+ .bss           0x68397fd0        0x0 ../o/um_dialogs0.o
+ .bss           0x68397fd0        0x0 ../o/um_dialogs1.o
+ .bss           0x68397fd0        0x0 ../o/um_dialogs2.o
+ .bss           0x68397fd0        0x0 ../o/um_computer.o
+ .bss           0x68397fd0        0x0 ../o/um_adds.o
+ .bss           0x68397fd0        0x0 ../o/um_adds_internal.o
+ .bss           0x68397fd0        0x0 ../o/um_dels.o
+ .bss           0x68397fd0        0x0 ../o/um_manage_user.o
+ .bss           0x68397fd0        0x0 ../o/um_manage_group.o
+ .bss           0x68397fd0        0x0 ../o/um_acl.o
+ .bss           0x68397fd0        0x0 ../o/um_childs.o
+ .bss           0x68397fd0        0x0 ../o/um_arrays.o
+ .bss           0x68397fd0        0x0 ../o/um_config.o
+ .bss           0x68397fd0        0x0 ../o/um_userdata.o
+ .bss           0x68397fd0        0x4 ../o/um_sid_cache.o
+ .bss           0x68397fd4        0x4 ../o/um_current_user.o
+ .bss           0x68397fd8        0x0 ../bin/userman.dll.exp
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/libgcc.a(_chkstk_ms.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+ .bss           0x68397fd8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+ *(COMMON)
+                0x68397fd8                __bss_end__ = .
+
+.edata          0x68398000      0x200
+ *(.edata)
+ .edata         0x68398000      0x164 ../bin/userman.dll.exp
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+ *(.note.GNU-stack)
+ *(.gnu.lto_*)
+
+.idata          0x68399000      0xe00
+ SORT(*)(.idata$2)
+ .idata$2       0x68399000       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+                0x68399000                _head_lib32_libadvapi32_a
+ .idata$2       0x68399014       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+                0x68399014                _head_lib32_libkernel32_a
+ .idata$2       0x68399028       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+                0x68399028                _head_lib32_libnetapi32_a
+ .idata$2       0x6839903c       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+                0x6839903c                _head_lib32_libntdll_a
+ .idata$2       0x68399050       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+                0x68399050                _head_lib32_libwinspool_a
+ SORT(*)(.idata$3)
+                0x68399064        0x4 LONG 0x0
+                0x68399068        0x4 LONG 0x0
+                0x6839906c        0x4 LONG 0x0
+                0x68399070        0x4 LONG 0x0
+                0x68399074        0x4 LONG 0x0
+ SORT(*)(.idata$4)
+ .idata$4       0x68399078        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+ .idata$4       0x68399078        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+ .idata$4       0x6839907c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+ .idata$4       0x68399080        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+ .idata$4       0x68399084        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+ .idata$4       0x68399088        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+ .idata$4       0x6839908c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+ .idata$4       0x68399090        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+ .idata$4       0x68399094        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+ .idata$4       0x68399098        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+ .idata$4       0x6839909c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+ .idata$4       0x683990a0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+ .idata$4       0x683990a4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+ .idata$4       0x683990a8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+ .idata$4       0x683990ac        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+ .idata$4       0x683990b0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+ .idata$4       0x683990b4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+ .idata$4       0x683990b8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+ .idata$4       0x683990bc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+ .idata$4       0x683990c0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+ .idata$4       0x683990c4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+ .idata$4       0x683990c8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+ .idata$4       0x683990cc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+ .idata$4       0x683990d0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+ .idata$4       0x683990d4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+ .idata$4       0x683990d8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+ .idata$4       0x683990dc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+ .idata$4       0x683990e0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+ .idata$4       0x683990e4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+ .idata$4       0x683990e8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+ .idata$4       0x683990ec        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+ .idata$4       0x683990f0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+ .idata$4       0x683990f4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+ .idata$4       0x683990f8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+ .idata$4       0x683990fc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+ .idata$4       0x68399100        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+ .idata$4       0x68399104        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+ .idata$4       0x68399108        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+ .idata$4       0x6839910c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+ .idata$4       0x68399110        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+ .idata$4       0x68399114        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+ .idata$4       0x68399118        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+ .idata$4       0x6839911c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+ .idata$4       0x68399120        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+ .idata$4       0x68399124        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+ .idata$4       0x68399124        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+ .idata$4       0x68399128        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+ .idata$4       0x6839912c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+ .idata$4       0x68399130        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+ .idata$4       0x68399134        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+ .idata$4       0x68399138        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+ .idata$4       0x6839913c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+ .idata$4       0x68399140        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+ .idata$4       0x68399144        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+ .idata$4       0x68399148        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+ .idata$4       0x6839914c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+ .idata$4       0x68399150        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+ .idata$4       0x68399154        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+ .idata$4       0x68399158        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+ .idata$4       0x6839915c        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+ .idata$4       0x6839915c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+ .idata$4       0x68399160        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+ .idata$4       0x68399164        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+ .idata$4       0x68399168        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+ .idata$4       0x6839916c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+ .idata$4       0x68399170        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+ .idata$4       0x68399174        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+ .idata$4       0x68399178        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+ .idata$4       0x6839917c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+ .idata$4       0x68399180        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+ .idata$4       0x68399184        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+ .idata$4       0x68399188        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+ .idata$4       0x6839918c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+ .idata$4       0x68399190        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+ .idata$4       0x68399194        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+ .idata$4       0x68399198        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+ .idata$4       0x6839919c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+ .idata$4       0x683991a0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+ .idata$4       0x683991a4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+ .idata$4       0x683991a8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+ .idata$4       0x683991ac        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+ .idata$4       0x683991b0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+ .idata$4       0x683991b4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+ .idata$4       0x683991b8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+ .idata$4       0x683991bc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+ .idata$4       0x683991c0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+ .idata$4       0x683991c4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+ .idata$4       0x683991c8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+ .idata$4       0x683991cc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+ .idata$4       0x683991d0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+ .idata$4       0x683991d4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+ .idata$4       0x683991d8        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+ .idata$4       0x683991d8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+ .idata$4       0x683991dc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+ .idata$4       0x683991e0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+ .idata$4       0x683991e4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+ .idata$4       0x683991e8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+ .idata$4       0x683991ec        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+ .idata$4       0x683991f0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+ .idata$4       0x683991f4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+ .idata$4       0x683991f8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+ .idata$4       0x683991fc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+ .idata$4       0x68399200        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+ .idata$4       0x68399204        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+ .idata$4       0x68399208        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+ .idata$4       0x6839920c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+ .idata$4       0x68399210        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+ .idata$4       0x68399210        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+ .idata$4       0x68399214        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+ .idata$4       0x68399218        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+ .idata$4       0x6839921c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+ .idata$4       0x68399220        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+                0x68399224                __IAT_start__ = .
+ SORT(*)(.idata$5)
+ .idata$5       0x68399224        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqph.o)
+ .idata$5       0x68399224        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+                0x68399224                _imp__AddAccessAllowedAce@16
+ .idata$5       0x68399228        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+                0x68399228                _imp__AddAccessDeniedAce@16
+ .idata$5       0x6839922c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+                0x6839922c                _imp__AddAuditAccessAce@24
+ .idata$5       0x68399230        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+                0x68399230                _imp__AdjustTokenPrivileges@24
+ .idata$5       0x68399234        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+                0x68399234                _imp__AllocateAndInitializeSid@44
+ .idata$5       0x68399238        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+                0x68399238                _imp__CopySid@12
+ .idata$5       0x6839923c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+                0x6839923c                _imp__EqualSid@8
+ .idata$5       0x68399240        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+                0x68399240                _imp__FreeSid@4
+ .idata$5       0x68399244        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+                0x68399244                _imp__GetAce@12
+ .idata$5       0x68399248        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+                0x68399248                _imp__GetAclInformation@16
+ .idata$5       0x6839924c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+                0x6839924c                _imp__GetFileSecurityW@20
+ .idata$5       0x68399250        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+                0x68399250                _imp__GetLengthSid@4
+ .idata$5       0x68399254        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+                0x68399254                _imp__GetSecurityDescriptorDacl@16
+ .idata$5       0x68399258        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+                0x68399258                _imp__GetSecurityDescriptorLength@4
+ .idata$5       0x6839925c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+                0x6839925c                _imp__GetSecurityDescriptorOwner@12
+ .idata$5       0x68399260        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+                0x68399260                _imp__GetSecurityDescriptorSacl@16
+ .idata$5       0x68399264        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+                0x68399264                _imp__GetTokenInformation@20
+ .idata$5       0x68399268        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+                0x68399268                _imp__InitializeAcl@12
+ .idata$5       0x6839926c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+                0x6839926c                _imp__InitializeSecurityDescriptor@8
+ .idata$5       0x68399270        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+                0x68399270                _imp__IsValidSid@4
+ .idata$5       0x68399274        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+                0x68399274                _imp__LookupAccountNameW@28
+ .idata$5       0x68399278        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+                0x68399278                _imp__LookupAccountSidW@28
+ .idata$5       0x6839927c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+                0x6839927c                _imp__LookupPrivilegeValueW@12
+ .idata$5       0x68399280        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+                0x68399280                _imp__LsaAddAccountRights@16
+ .idata$5       0x68399284        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+                0x68399284                _imp__LsaClose@4
+ .idata$5       0x68399288        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+                0x68399288                _imp__LsaEnumerateAccountsWithUserRight@16
+ .idata$5       0x6839928c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+                0x6839928c                _imp__LsaFreeMemory@4
+ .idata$5       0x68399290        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+                0x68399290                _imp__LsaNtStatusToWinError@4
+ .idata$5       0x68399294        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+                0x68399294                _imp__LsaOpenPolicy@16
+ .idata$5       0x68399298        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+                0x68399298                _imp__LsaRemoveAccountRights@20
+ .idata$5       0x6839929c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+                0x6839929c                _imp__MakeAbsoluteSD@44
+ .idata$5       0x683992a0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+                0x683992a0                _imp__OpenProcessToken@12
+ .idata$5       0x683992a4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+                0x683992a4                _imp__RegCloseKey@4
+ .idata$5       0x683992a8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+                0x683992a8                _imp__RegCreateKeyExW@36
+ .idata$5       0x683992ac        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+                0x683992ac                _imp__RegEnumKeyW@16
+ .idata$5       0x683992b0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+                0x683992b0                _imp__RegGetKeySecurity@16
+ .idata$5       0x683992b4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+                0x683992b4                _imp__RegOpenKeyExW@20
+ .idata$5       0x683992b8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+                0x683992b8                _imp__RegSetKeySecurity@12
+ .idata$5       0x683992bc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+                0x683992bc                _imp__SetFileSecurityW@12
+ .idata$5       0x683992c0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+                0x683992c0                _imp__SetSecurityDescriptorDacl@16
+ .idata$5       0x683992c4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+                0x683992c4                _imp__SetSecurityDescriptorOwner@12
+ .idata$5       0x683992c8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+                0x683992c8                _imp__SetSecurityDescriptorSacl@16
+ .idata$5       0x683992cc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+ .idata$5       0x683992d0        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjh.o)
+ .idata$5       0x683992d0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+                0x683992d0                _imp__CloseHandle@4
+ .idata$5       0x683992d4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+                0x683992d4                _imp__CreateFileW@28
+ .idata$5       0x683992d8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+                0x683992d8                _imp__FindClose@4
+ .idata$5       0x683992dc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+                0x683992dc                _imp__FindFirstFileW@8
+ .idata$5       0x683992e0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+                0x683992e0                _imp__FindNextFileW@8
+ .idata$5       0x683992e4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+                0x683992e4                _imp__GetCurrentProcess@0
+ .idata$5       0x683992e8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+                0x683992e8                _imp__GetFileAttributesW@4
+ .idata$5       0x683992ec        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+                0x683992ec                _imp__GetLastError@0
+ .idata$5       0x683992f0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+                0x683992f0                _imp__GetProcessHeap@0
+ .idata$5       0x683992f4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+                0x683992f4                _imp__HeapAlloc@12
+ .idata$5       0x683992f8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+                0x683992f8                _imp__HeapFree@12
+ .idata$5       0x683992fc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+                0x683992fc                _imp__HeapReAlloc@16
+ .idata$5       0x68399300        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+                0x68399300                _imp__SetLastError@4
+ .idata$5       0x68399304        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+ .idata$5       0x68399308        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqh.o)
+ .idata$5       0x68399308        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+                0x68399308                _imp__NetApiBufferFree@4
+ .idata$5       0x6839930c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+                0x6839930c                _imp__NetGetAnyDCName@12
+ .idata$5       0x68399310        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+                0x68399310                _imp__NetGetDCName@12
+ .idata$5       0x68399314        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+                0x68399314                _imp__NetGroupAdd@16
+ .idata$5       0x68399318        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+                0x68399318                _imp__NetGroupAddUser@12
+ .idata$5       0x6839931c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+                0x6839931c                _imp__NetGroupDel@8
+ .idata$5       0x68399320        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+                0x68399320                _imp__NetGroupDelUser@12
+ .idata$5       0x68399324        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+                0x68399324                _imp__NetGroupEnum@28
+ .idata$5       0x68399328        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+                0x68399328                _imp__NetGroupGetInfo@16
+ .idata$5       0x6839932c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+                0x6839932c                _imp__NetGroupGetUsers@32
+ .idata$5       0x68399330        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+                0x68399330                _imp__NetGroupSetInfo@20
+ .idata$5       0x68399334        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+                0x68399334                _imp__NetLocalGroupAdd@16
+ .idata$5       0x68399338        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+                0x68399338                _imp__NetLocalGroupAddMembers@20
+ .idata$5       0x6839933c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+                0x6839933c                _imp__NetLocalGroupDel@8
+ .idata$5       0x68399340        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+                0x68399340                _imp__NetLocalGroupDelMembers@20
+ .idata$5       0x68399344        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+                0x68399344                _imp__NetLocalGroupEnum@28
+ .idata$5       0x68399348        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+                0x68399348                _imp__NetLocalGroupGetInfo@16
+ .idata$5       0x6839934c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+                0x6839934c                _imp__NetLocalGroupGetMembers@32
+ .idata$5       0x68399350        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+                0x68399350                _imp__NetLocalGroupSetInfo@20
+ .idata$5       0x68399354        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+                0x68399354                _imp__NetQueryDisplayInformation@28
+ .idata$5       0x68399358        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+                0x68399358                _imp__NetShareAdd@16
+ .idata$5       0x6839935c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+                0x6839935c                _imp__NetShareDel@12
+ .idata$5       0x68399360        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+                0x68399360                _imp__NetShareEnum@28
+ .idata$5       0x68399364        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+                0x68399364                _imp__NetShareGetInfo@16
+ .idata$5       0x68399368        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+                0x68399368                _imp__NetShareSetInfo@20
+ .idata$5       0x6839936c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+                0x6839936c                _imp__NetUserAdd@16
+ .idata$5       0x68399370        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+                0x68399370                _imp__NetUserDel@8
+ .idata$5       0x68399374        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+                0x68399374                _imp__NetUserEnum@32
+ .idata$5       0x68399378        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+                0x68399378                _imp__NetUserGetInfo@16
+ .idata$5       0x6839937c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+                0x6839937c                _imp__NetUserSetInfo@20
+ .idata$5       0x68399380        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+ .idata$5       0x68399384        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dcheh.o)
+ .idata$5       0x68399384        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+                0x68399384                _imp__RtlConvertSidToUnicodeString@12
+ .idata$5       0x68399388        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+                0x68399388                _imp__RtlFreeUnicodeString@4
+ .idata$5       0x6839938c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+                0x6839938c                _imp___wcsicmp
+ .idata$5       0x68399390        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+                0x68399390                _imp___wcsnicmp
+ .idata$5       0x68399394        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+                0x68399394                _imp__memcmp
+ .idata$5       0x68399398        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+                0x68399398                _imp__memmove
+ .idata$5       0x6839939c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+                0x6839939c                _imp__wcscat
+ .idata$5       0x683993a0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+                0x683993a0                _imp__wcschr
+ .idata$5       0x683993a4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+                0x683993a4                _imp__wcscmp
+ .idata$5       0x683993a8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+                0x683993a8                _imp__wcscpy
+ .idata$5       0x683993ac        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+                0x683993ac                _imp__wcslen
+ .idata$5       0x683993b0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+                0x683993b0                _imp__wcsncmp
+ .idata$5       0x683993b4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+                0x683993b4                _imp__wcsncpy
+ .idata$5       0x683993b8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+ .idata$5       0x683993bc        0x0 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlph.o)
+ .idata$5       0x683993bc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+                0x683993bc                _imp__ClosePrinter@4
+ .idata$5       0x683993c0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+                0x683993c0                _imp__GetPrinterW@20
+ .idata$5       0x683993c4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+                0x683993c4                _imp__OpenPrinterW@12
+ .idata$5       0x683993c8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+                0x683993c8                _imp__SetPrinterW@16
+ .idata$5       0x683993cc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+                0x683993d0                __IAT_end__ = .
+ SORT(*)(.idata$6)
+ .idata$6       0x683993d0       0x16 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+ .idata$6       0x683993e6       0x16 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+ .idata$6       0x683993fc       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+ .idata$6       0x68399410       0x18 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+ .idata$6       0x68399428       0x1c T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+ .idata$6       0x68399444        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+ .idata$6       0x6839944e        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+ .idata$6       0x6839945a        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+ .idata$6       0x68399464        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+ .idata$6       0x6839946e       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+ .idata$6       0x68399482       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+ .idata$6       0x68399496       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+ .idata$6       0x683994a6       0x1c T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+ .idata$6       0x683994c2       0x1e T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+ .idata$6       0x683994e0       0x1e T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+ .idata$6       0x683994fe       0x1c T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+ .idata$6       0x6839951a       0x16 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+ .idata$6       0x68399530       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+ .idata$6       0x68399540       0x20 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+ .idata$6       0x68399560        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+ .idata$6       0x6839956e       0x16 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+ .idata$6       0x68399584       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+ .idata$6       0x68399598       0x18 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+ .idata$6       0x683995b0       0x16 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+ .idata$6       0x683995c6        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+ .idata$6       0x683995d2       0x24 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+ .idata$6       0x683995f6       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+ .idata$6       0x68399606       0x18 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+ .idata$6       0x6839961e       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+ .idata$6       0x6839962e       0x1a T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+ .idata$6       0x68399648       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+ .idata$6       0x6839965a       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+ .idata$6       0x6839966e        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+ .idata$6       0x6839967c       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+ .idata$6       0x6839968e        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+ .idata$6       0x6839969c       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+ .idata$6       0x683996b0       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+ .idata$6       0x683996c0       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+ .idata$6       0x683996d4       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+ .idata$6       0x683996e8       0x1c T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+ .idata$6       0x68399704       0x1e T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+ .idata$6       0x68399722       0x1c T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+ .idata$6       0x6839973e        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+ .idata$6       0x6839974c        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+ .idata$6       0x6839975a        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+ .idata$6       0x68399766       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+ .idata$6       0x68399778       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+ .idata$6       0x68399788       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+ .idata$6       0x6839979c       0x16 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+ .idata$6       0x683997b2       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+ .idata$6       0x683997c2       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+ .idata$6       0x683997d4        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+ .idata$6       0x683997e0        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+ .idata$6       0x683997ec        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+ .idata$6       0x683997fa       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+ .idata$6       0x6839980a       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+ .idata$6       0x6839981e       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+ .idata$6       0x68399830       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+ .idata$6       0x68399840        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+ .idata$6       0x6839984e       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+ .idata$6       0x68399860        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+ .idata$6       0x6839986e       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+ .idata$6       0x68399880       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+ .idata$6       0x68399890       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+ .idata$6       0x683998a2       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+ .idata$6       0x683998b6       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+ .idata$6       0x683998c8       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+ .idata$6       0x683998dc       0x1a T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+ .idata$6       0x683998f6       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+ .idata$6       0x6839990a       0x1a T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+ .idata$6       0x68399924       0x14 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+ .idata$6       0x68399938       0x18 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+ .idata$6       0x68399950       0x1a T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+ .idata$6       0x6839996a       0x18 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+ .idata$6       0x68399982       0x1e T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+ .idata$6       0x683999a0        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+ .idata$6       0x683999ae        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+ .idata$6       0x683999bc       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+ .idata$6       0x683999cc       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+ .idata$6       0x683999de       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+ .idata$6       0x683999f0        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+ .idata$6       0x683999fe        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+ .idata$6       0x68399a0c        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+ .idata$6       0x68399a1a       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+ .idata$6       0x68399a2c       0x12 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+ .idata$6       0x68399a3e       0x20 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+ .idata$6       0x68399a5e       0x18 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+ .idata$6       0x68399a76        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+ .idata$6       0x68399a82        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+ .idata$6       0x68399a8e        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+ .idata$6       0x68399a98        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+ .idata$6       0x68399aa2        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+ .idata$6       0x68399aac        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+ .idata$6       0x68399ab6        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+ .idata$6       0x68399ac0        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+ .idata$6       0x68399aca        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+ .idata$6       0x68399ad4        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+ .idata$6       0x68399ade        0xa T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+ .idata$6       0x68399ae8       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+ .idata$6       0x68399af8        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+ .idata$6       0x68399b06       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+ .idata$6       0x68399b16        0xe T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+ SORT(*)(.idata$7)
+ .idata$7       0x68399b24        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00016.o)
+ .idata$7       0x68399b28        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00019.o)
+ .idata$7       0x68399b2c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00023.o)
+ .idata$7       0x68399b30        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00031.o)
+ .idata$7       0x68399b34        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00032.o)
+ .idata$7       0x68399b38        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00118.o)
+ .idata$7       0x68399b3c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00263.o)
+ .idata$7       0x68399b40        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00288.o)
+ .idata$7       0x68399b44        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00291.o)
+ .idata$7       0x68399b48        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00292.o)
+ .idata$7       0x68399b4c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00304.o)
+ .idata$7       0x68399b50        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00310.o)
+ .idata$7       0x68399b54        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00329.o)
+ .idata$7       0x68399b58        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00331.o)
+ .idata$7       0x68399b5c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00332.o)
+ .idata$7       0x68399b60        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00334.o)
+ .idata$7       0x68399b64        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00352.o)
+ .idata$7       0x68399b68        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00380.o)
+ .idata$7       0x68399b6c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00381.o)
+ .idata$7       0x68399b70        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00397.o)
+ .idata$7       0x68399b74        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00406.o)
+ .idata$7       0x68399b78        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00408.o)
+ .idata$7       0x68399b7c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00414.o)
+ .idata$7       0x68399b80        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00417.o)
+ .idata$7       0x68399b84        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00420.o)
+ .idata$7       0x68399b88        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00429.o)
+ .idata$7       0x68399b8c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00434.o)
+ .idata$7       0x68399b90        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00450.o)
+ .idata$7       0x68399b94        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00452.o)
+ .idata$7       0x68399b98        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00465.o)
+ .idata$7       0x68399b9c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00488.o)
+ .idata$7       0x68399ba0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00510.o)
+ .idata$7       0x68399ba4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00568.o)
+ .idata$7       0x68399ba8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00577.o)
+ .idata$7       0x68399bac        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00600.o)
+ .idata$7       0x68399bb0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00604.o)
+ .idata$7       0x68399bb4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00617.o)
+ .idata$7       0x68399bb8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00641.o)
+ .idata$7       0x68399bbc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00690.o)
+ .idata$7       0x68399bc0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00702.o)
+ .idata$7       0x68399bc4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00704.o)
+ .idata$7       0x68399bc8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqps00706.o)
+ .idata$7       0x68399bcc       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libadvapi32.a(dmqpt.o)
+                0x68399bcc                _lib32_libadvapi32_a_iname
+ .idata$7       0x68399bdc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00083.o)
+ .idata$7       0x68399be0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00146.o)
+ .idata$7       0x68399be4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00305.o)
+ .idata$7       0x68399be8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00316.o)
+ .idata$7       0x68399bec        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00328.o)
+ .idata$7       0x68399bf0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00453.o)
+ .idata$7       0x68399bf4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00492.o)
+ .idata$7       0x68399bf8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00516.o)
+ .idata$7       0x68399bfc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00587.o)
+ .idata$7       0x68399c00        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00721.o)
+ .idata$7       0x68399c04        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00727.o)
+ .idata$7       0x68399c08        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs00731.o)
+ .idata$7       0x68399c0c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjs01083.o)
+ .idata$7       0x68399c10       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libkernel32.a(dsrjt.o)
+                0x68399c10                _lib32_libkernel32_a_iname
+ .idata$7       0x68399c20        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00121.o)
+ .idata$7       0x68399c24        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00169.o)
+ .idata$7       0x68399c28        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00170.o)
+ .idata$7       0x68399c2c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00174.o)
+ .idata$7       0x68399c30        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00175.o)
+ .idata$7       0x68399c34        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00176.o)
+ .idata$7       0x68399c38        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00177.o)
+ .idata$7       0x68399c3c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00178.o)
+ .idata$7       0x68399c40        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00179.o)
+ .idata$7       0x68399c44        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00180.o)
+ .idata$7       0x68399c48        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00181.o)
+ .idata$7       0x68399c4c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00185.o)
+ .idata$7       0x68399c50        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00187.o)
+ .idata$7       0x68399c54        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00188.o)
+ .idata$7       0x68399c58        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00190.o)
+ .idata$7       0x68399c5c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00191.o)
+ .idata$7       0x68399c60        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00192.o)
+ .idata$7       0x68399c64        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00193.o)
+ .idata$7       0x68399c68        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00194.o)
+ .idata$7       0x68399c6c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00204.o)
+ .idata$7       0x68399c70        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00283.o)
+ .idata$7       0x68399c74        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00285.o)
+ .idata$7       0x68399c78        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00288.o)
+ .idata$7       0x68399c7c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00290.o)
+ .idata$7       0x68399c80        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00291.o)
+ .idata$7       0x68399c84        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00299.o)
+ .idata$7       0x68399c88        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00301.o)
+ .idata$7       0x68399c8c        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00302.o)
+ .idata$7       0x68399c90        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00304.o)
+ .idata$7       0x68399c94        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqs00309.o)
+ .idata$7       0x68399c98       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libnetapi32.a(dmaqt.o)
+                0x68399c98                _lib32_libnetapi32_a_iname
+ .idata$7       0x68399ca8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00699.o)
+ .idata$7       0x68399cac        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches00884.o)
+ .idata$7       0x68399cb0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01954.o)
+ .idata$7       0x68399cb4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01956.o)
+ .idata$7       0x68399cb8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01996.o)
+ .idata$7       0x68399cbc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches01999.o)
+ .idata$7       0x68399cc0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02044.o)
+ .idata$7       0x68399cc4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02046.o)
+ .idata$7       0x68399cc8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02047.o)
+ .idata$7       0x68399ccc        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02048.o)
+ .idata$7       0x68399cd0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02051.o)
+ .idata$7       0x68399cd4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02054.o)
+ .idata$7       0x68399cd8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dches02055.o)
+ .idata$7       0x68399cdc        0xc T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libntdll.a(dchet.o)
+                0x68399cdc                _lib32_libntdll_a_iname
+ .idata$7       0x68399ce8        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00027.o)
+ .idata$7       0x68399cec        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00102.o)
+ .idata$7       0x68399cf0        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00105.o)
+ .idata$7       0x68399cf4        0x4 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlps00123.o)
+ .idata$7       0x68399cf8       0x10 T:/GitSDK/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/lib/../lib/libwinspool.a(dwlpt.o)
+                0x68399cf8                _lib32_libwinspool_a_iname
+
+.CRT            0x6839a000        0x0
+                0x6839a000                ___crt_xc_start__ = .
+ *(SORT(.CRT$XC*))
+                0x6839a000                ___crt_xc_end__ = .
+                0x6839a000                ___crt_xi_start__ = .
+ *(SORT(.CRT$XI*))
+                0x6839a000                ___crt_xi_end__ = .
+                0x6839a000                ___crt_xl_start__ = .
+ *(SORT(.CRT$XL*))
+                0x6839a000                ___crt_xp_start__ = .
+ *(SORT(.CRT$XP*))
+                0x6839a000                ___crt_xp_end__ = .
+                0x6839a000                ___crt_xt_start__ = .
+ *(SORT(.CRT$XT*))
+                0x6839a000                ___crt_xt_end__ = .
+
+.tls            0x6839a000        0x0
+                0x6839a000                ___tls_start__ = .
+ *(.tls$AAA)
+ *(.tls)
+ *(.tls$)
+ *(SORT(.tls$*))
+ *(.tls$ZZZ)
+                0x6839a000                ___tls_end__ = .
+
+.endjunk        0x6839a000        0x0
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x6839a000                __end__ = .
+
+.rsrc           0x6839a000      0x400
+ *(.rsrc)
+ .rsrc          0x6839a000      0x310 ../o/userman.res.o
+ *(.rsrc$*)
+
+.reloc          0x6839b000      0xc00
+ *(.reloc)
+ .reloc         0x6839b000      0xaa4 ../bin/userman.dll.exp
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.zdebug_aranges
+ *(.zdebug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.zdebug_pubnames
+ *(.zdebug_pubnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.zdebug_pubtypes
+ *(.zdebug_pubtypes)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.zdebug_info
+ *(.zdebug_info .zdebug.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.zdebug_abbrev
+ *(.zdebug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.zdebug_line
+ *(.zdebug_line)
+
+.debug_frame
+ *(.debug_frame*)
+
+.zdebug_frame
+ *(.zdebug_frame*)
+
+.debug_str
+ *(.debug_str)
+
+.zdebug_str
+ *(.zdebug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.zdebug_loc
+ *(.zdebug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.zdebug_macinfo
+ *(.zdebug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.zdebug_weaknames
+ *(.zdebug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.zdebug_funcnames
+ *(.zdebug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.zdebug_typenames
+ *(.zdebug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.zdebug_varnames
+ *(.zdebug_varnames)
+
+.debug_macro
+ *(.debug_macro)
+
+.zdebug_macro
+ *(.zdebug_macro)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.zdebug_ranges
+ *(.zdebug_ranges)
+
+.debug_types
+ *(.debug_types .gnu.linkonce.wt.*)
+
+.zdebug_types
+ *(.zdebug_types .gnu.linkonce.wt.*)
+OUTPUT(../bin/userman.dll pei-i386)
