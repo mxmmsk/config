@@ -55,7 +55,7 @@ end;
 
 Macro {
     area="Editor";
-    key="/[LR]Ctrl[0123456789]/";
+    --key="/[LR]Ctrl[0123456789]/";
     kescription="Extend std. bookmarks with stack bookmarks";
 action = function()
   BM.Add()
