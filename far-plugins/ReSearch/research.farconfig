@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<farconfig version="3.0.4372">
+    <pluginsconfig>
+        <plugin guid="F250C12A-78E2-4ABC-A784-3FDD3156E415">
+            <hierarchicalconfig>
+                <key name="F250C12A-78E2-4ABC-A784-3FDD3156E415" description="RESearch">
+                    <value name="AllCP" type="hex" value="62,03,00,00,B0,04,00,00,E3,04,00,00,E9,FD,00,00" />
+                    <value name="DotMatchesNewline" type="qword" value="0000000000000001" />
+                    <value name="EAutoFindInSelection" type="qword" value="0000000000000001" />
+                    <value name="ECaseSensitive" type="qword" value="0000000000000000" />
+                    <value name="EFLeaveFilter" type="qword" value="0000000000000000" />
+                    <value name="EFindSelection" type="qword" value="0000000000000001" />
+                    <value name="EFindTextAtCursor" type="qword" value="0000000000000001" />
+                    <value name="EKeepLineIfVisible" type="qword" value="0000000000000001" />
+                    <value name="ELRSideOffset" type="qword" value="0000000000000005" />
+                    <value name="EPositionAt" type="qword" value="0000000000000001" />
+                    <value name="EPositionAtSub" type="qword" value="0000000000000001" />
+                    <value name="EPositionSubName" type="text" value="pos" />
+                    <value name="EREvaluateScript" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                    <value name="ERReplace" type="text" value="stDefTermWikiLink" />
+                    <value name="ERegExp" type="qword" value="0000000000000000" />
+                    <value name="ESeveralLine" type="qword" value="0000000000000000" />
+                    <value name="EShowPosition" type="qword" value="0000000000000001" />
+                    <value name="EShowPositionOffset" type="qword" value="0000000000000000" />
+                    <value name="ETDSideOffset" type="qword" value="0000000000000002" />
+                    <value name="ETSource" type="text" value="" />
+                    <value name="ETTarget" type="text" value="" />
+                    <value name="EText" type="text" value="\Far30.svn.sf\" />
+                    <value name="FAAttributesCleared" type="qword" value="0000000000000000" />
+                    <value name="FAAttributesSet" type="qword" value="0000000000000000" />
+                    <value name="FACaseSensitive" type="qword" value="0000000000000000" />
+                    <value name="FADateAfter" type="qword" value="0000000000000000" />
+                    <value name="FADateAfterThisHi" type="qword" value="0000000001A8E79F" />
+                    <value name="FADateAfterThisLo" type="qword" value="00000000E1D58000" />
+                    <value name="FADateBefore" type="qword" value="0000000000000000" />
+                    <value name="FADateBeforeThisHi" type="qword" value="0000000001A8E79F" />
+                    <value name="FADateBeforeThisLo" type="qword" value="00000000E1D58000" />
+                    <value name="FADirectoryCaseSensitive" type="qword" value="0000000000000000" />
+                    <value name="FADirectoryInverse" type="qword" value="0000000000000000" />
+                    <value name="FADirectoryMatch" type="qword" value="0000000000000000" />
+                    <value name="FADirectoryName" type="text" value="" />
+                    <value name="FAFullFileName" type="text" value="" />
+                    <value name="FAFullFileNameInverse" type="qword" value="0000000000000000" />
+                    <value name="FAFullFileNameMatch" type="qword" value="0000000000000000" />
+                    <value name="FAModificationDate" type="qword" value="0000000000000000" />
+                    <value name="FARecursionLevel" type="qword" value="0000000000000000" />
+                    <value name="FASearchHead" type="qword" value="0000000000000000" />
+                    <value name="FASearchHeadLimit" type="qword" value="0000000000000000" />
+                    <value name="FASizeGreater" type="qword" value="0000000000000000" />
+                    <value name="FASizeGreaterLimit" type="qword" value="0000000000000000" />
+                    <value name="FASizeLess" type="qword" value="0000000000000000" />
+                    <value name="FASizeLessLimit" type="qword" value="0000000000000000" />
+                    <value name="FASkipSystemFolders" type="qword" value="0000000000000000" />
+                    <value name="FASystemFolders" type="text" value="CVS.;.svn;_svn." />
+                    <value name="FAUseStreams" type="qword" value="0000000000000000" />
+                    <value name="FAllCharTables" type="qword" value="0000000000000000" />
+                    <value name="FBufferSize" type="qword" value="0000000000000010" />
+                    <value name="FCaseSensitive" type="qword" value="0000000000000000" />
+                    <value name="FGAddContext" type="qword" value="0000000000000000" />
+                    <value name="FGAddLineCount" type="qword" value="0000000000000000" />
+                    <value name="FGAddLineNumbers" type="qword" value="0000000000000000" />
+                    <value name="FGAddMatchCount" type="qword" value="0000000000000000" />
+                    <value name="FGContextLines" type="qword" value="0000000000000001" />
+                    <value name="FGFileNameAppend" type="text" value="" />
+                    <value name="FGFileNamePrepend" type="text" value="" />
+                    <value name="FGMatchingLinePart" type="qword" value="0000000000000000" />
+                    <value name="FGOpenInEditor" type="qword" value="0000000000000001" />
+                    <value name="FGOpenPanel" type="qword" value="0000000000000000" />
+                    <value name="FGOutputFile" type="text" value="" />
+                    <value name="FGOutputLines" type="qword" value="0000000000000001" />
+                    <value name="FGOutputNames" type="qword" value="0000000000000001" />
+                    <value name="FGOutputToFile" type="qword" value="0000000000000000" />
+                    <value name="FMask" type="text" value="*.cpp,*.h" />
+                    <value name="FMaskAsRegExp" type="qword" value="0000000000000000" />
+                    <value name="FMaskCase" type="qword" value="0000000000000002" />
+                    <value name="FRConfirmFile" type="qword" value="0000000000000000" />
+                    <value name="FRConfirmLine" type="qword" value="0000000000000000" />
+                    <value name="FRLeaveSelection" type="qword" value="0000000000000000" />
+                    <value name="FROpenModified" type="qword" value="0000000000000000" />
+                    <value name="FROverwriteBackup" type="qword" value="0000000000000000" />
+                    <value name="FRPreviewRename" type="qword" value="0000000000000001" />
+                    <value name="FRReplace" type="text" value="stDefTermWikiLink" />
+                    <value name="FRReplaceReadonly" type="qword" value="0000000000000001" />
+                    <value name="FRReplaceToNew" type="qword" value="0000000000000000" />
+                    <value name="FRSaveOriginal" type="qword" value="0000000000000000" />
+                    <value name="FRepeating" type="qword" value="0000000000000000" />
+                    <value name="FSEditSrchAfterFile" type="qword" value="0000000000000000" />
+                    <value name="FSInverse" type="qword" value="0000000000000000" />
+                    <value name="FSUseSingleCR" type="qword" value="0000000000000000" />
+                    <value name="FSearchAs" type="qword" value="0000000000000001" />
+                    <value name="FSearchIn" type="qword" value="0000000000000003" />
+                    <value name="FShowStatistics" type="qword" value="0000000000000000" />
+                    <value name="FText" type="text" value="((\/)(cmd){1}(list){0,1})\b" />
+                    <value name="FUseShortFilenames" type="qword" value="0000000000000000" />
+                    <value name="MaxInThreadLength" type="qword" value="0000000000000400" />
+                    <value name="SeveralLines" type="qword" value="0000000000000020" />
+                    <value name="SeveralLinesKB" type="qword" value="0000000000000010" />
+                    <value name="ShowUsageWarnings" type="qword" value="0000000000000001" />
+                    <value name="TPPanelMode" type="qword" value="0000000000000003" />
+                    <value name="TPSortMode" type="qword" value="0000000000000002" />
+                    <value name="TPSortOrder" type="qword" value="0000000000000000" />
+                    <value name="ThreadStackMB" type="qword" value="0000000000000040" />
+                    <value name="UseSeparateThread" type="qword" value="0000000000000001" />
+                    <value name="g_bDefaultOEM" type="qword" value="0000000000000001" />
+                    <value name="g_bEscapesInPlainText" type="qword" value="0000000000000001" />
+                    <value name="g_bIgnoreIdentReplace" type="qword" value="0000000000000000" />
+                    <value name="g_bStripCommon" type="qword" value="0000000000000001" />
+                    <value name="g_bStripRegExp" type="qword" value="0000000000000001" />
+                    <value name="g_bUseRealEOL" type="qword" value="0000000000000000" />
+                    <value name="g_nStartWith" type="qword" value="0000000000000001" />
+                    <value name="g_nWidth" type="qword" value="0000000000000000" />
+                    <value name="g_strPostfix" type="text" value=" - " />
+                    <value name="g_strPrefix" type="text" value="" />
+                    <value name="g_strStrip" type="text" value="^\d+\s*([-.]\s*)?" />
+                    <key name="EditFilterPresets" description="">
+                        <key name="0000" description="">
+                            <value name="" type="text" value="Leave only &lt;h?&gt; ... &lt;/h&gt;" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000001" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="LeaveFilter" type="qword" value="0000000000000001" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="\&lt;h.*" />
+                        </key>
+                        <key name="0001" description="">
+                            <value name="" type="text" value="Leave only ## headers" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000002" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="LeaveFilter" type="qword" value="0000000000000001" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^#(#)+" />
+                        </key>
+                    </key>
+                    <key name="EditReplacePresets" description="">
+                        <key name="0000" description="">
+                            <value name="" type="text" value="bc\d_url" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000001" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value=" - id: c\n   url:" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^bc\d_url:" />
+                        </key>
+                        <key name="0001" description="">
+                            <value name="" type="text" value="sa\d_url" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000003" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value=" - url:" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^sa\d_url:" />
+                        </key>
+                        <key name="0002" description="">
+                            <value name="" type="text" value="bc\d_title" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000002" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="   title:" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^bc\d_title:" />
+                        </key>
+                        <key name="0003" description="">
+                            <value name="" type="text" value="sa\d_title" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000004" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="   title:" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^sa\d_title:" />
+                        </key>
+                        <key name="0004" description="">
+                            <value name="" type="text" value="Convert md-list links from html" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000005" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="* [$2](#$1)" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='\*\s*&lt;h.*?id\=\&quot;([^&quot;]*)&quot;&gt;\s*(.*?)\s*\&lt;\/h.&gt;' />
+                        </key>
+                        <key name="0005" description="">
+                            <value name="" type="text" value="Shift &lt;h2&gt; headers in md style" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000006" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="* $1" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^(&lt;h2)" />
+                        </key>
+                        <key name="0006" description="">
+                            <value name="" type="text" value="Shift &lt;h3&gt; headers in md style" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000007" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="  * $1" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^(&lt;h3)" />
+                        </key>
+                        <key name="0007" description="">
+                            <value name="" type="text" value="Shift &lt;h4&gt; headers in md style" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000008" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="    * $1" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^(&lt;h4)" />
+                        </key>
+                        <key name="0008" description="">
+                            <value name="" type="text" value="Convert &lt;img&gt; tags to .md" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000009" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="![$3]($2)" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='&lt;img src=&quot;(\.\.)*(\/img\/[^&quot;]*)&quot;[^&gt;]*?title=&quot;([^&quot;]*)&quot;[^&gt;]*&gt;' />
+                        </key>
+                        <key name="0009" description="">
+                            <value name="" type="text" value="Convert &lt;h2 &gt; tags to ## md" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="000000000000000A" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="## $2  {#$1}" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='\&lt;h2 id\=&quot;([^&quot;]*)&quot;\&gt;\s*([^&lt;]*?)\s*\&lt;\/h2\&gt;' />
+                        </key>
+                        <key name="0010" description="">
+                            <value name="" type="text" value="Convert &lt;h3 &gt; tags to ## md" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="000000000000000D" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="### $2   {#$1}" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='\&lt;h3 id\=&quot;([^&quot;]*)&quot;\&gt;\s*([^&lt;]*?)\s*\&lt;\/h3\&gt;' />
+                        </key>
+                        <key name="0011" description="">
+                            <value name="" type="text" value="Convert &lt;h4 &gt; tags to ## md" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="000000000000000C" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="#### $2  {#$1}" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='\&lt;h4 id\=&quot;([^&quot;]*)&quot;\&gt;\s*([^&lt;]*?)\s*\&lt;\/h4\&gt;' />
+                        </key>
+                        <key name="0012" description="">
+                            <value name="" type="text" value="Convert &lt;h5 &gt; tags to ## md" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="000000000000000B" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="##### $2  {#$1}" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='\&lt;h5 id\=&quot;([^&quot;]*)&quot;\&gt;\s*([^&lt;]*?)\s*\&lt;\/h5\&gt;' />
+                        </key>
+                        <key name="0013" description="">
+                            <value name="" type="text" value="Convert &lt;a&gt; tags to .md" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000011" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="[$2]($1)" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='\&lt;a[^&gt;]*?href\=&quot;([^&quot;]*)&quot;[^&gt;]*?\&gt;\s*([^&lt;]*?)\s*\&lt;\/a\&gt;' />
+                        </key>
+                        <key name="0014" description="">
+                            <value name="" type="text" value="Convert md headers to contents links" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="000000000000000E" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="$1 [$2](#$3)" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value='(#*)\s*(.*?)\s*\&lt;a\s*id=\&quot;(.*?)&quot;\s*\/\&gt;' />
+                        </key>
+                        <key name="0015" description="">
+                            <value name="" type="text" value="Convert md {#headers} to contents links" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000012" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="$1 [$2](#$3)" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^(#+)\s*([^{]*)\s*\{#([^}]+)}" />
+                        </key>
+                        <key name="0016" description="">
+                            <value name="" type="text" value="Shift ##headers for contents links" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="000000000000000F" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="$1* " />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^##(#?)\s*" />
+                        </key>
+                        <key name="0017" description="">
+                            <value name="" type="text" value="Shift ###headers for contents links" />
+                            <value name="AddToMenu" type="qword" value="0000000000000000" />
+                            <value name="AsScript" type="qword" value="0000000000000000" />
+                            <value name="CaseSensitive" type="qword" value="0000000000000000" />
+                            <value name="FromCurrent" type="qword" value="0000000000000000" />
+                            <value name="ID" type="qword" value="0000000000000010" />
+                            <value name="InSelection" type="qword" value="0000000000000000" />
+                            <value name="IsRegExp" type="qword" value="0000000000000001" />
+                            <value name="RemoveEmpty" type="qword" value="0000000000000000" />
+                            <value name="RemoveNoMatch" type="qword" value="0000000000000000" />
+                            <value name="Replace" type="text" value="$1  $2*" />
+                            <value name="Reverse" type="qword" value="0000000000000000" />
+                            <value name="Script" type="text" value="{16D51579-A30B-4C8B-A276-0FF4DC41E755}" />
+                            <value name="SeveralLine" type="qword" value="0000000000000000" />
+                            <value name="Text" type="text" value="^(s*)#(#?)\*" />
+                        </key>
+                    </key>
+                    <key name="EditorBatches" description="">
+                        <key name="0000" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="convert read-also" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000003" />
+                            </key>
+                            <key name="0001" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000004" />
+                            </key>
+                        </key>
+                        <key name="0001" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="convert bread-crumbs" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000001" />
+                            </key>
+                            <key name="0001" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000002" />
+                            </key>
+                        </key>
+                        <key name="0002" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="Convert md-lists links from html" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000005" />
+                            </key>
+                        </key>
+                        <key name="0003" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="Convert &lt;img&gt; tags to .md" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000009" />
+                            </key>
+                        </key>
+                        <key name="0004" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="Filter all html headers" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000001" />
+                                <value name="ID" type="qword" value="0000000000000001" />
+                            </key>
+                            <key name="0001" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000006" />
+                            </key>
+                            <key name="0002" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000007" />
+                            </key>
+                            <key name="0003" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000008" />
+                            </key>
+                            <key name="0004" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000005" />
+                            </key>
+                        </key>
+                        <key name="0005" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="Filter all md headers" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000001" />
+                                <value name="ID" type="qword" value="0000000000000002" />
+                            </key>
+                            <key name="0001" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="000000000000000E" />
+                            </key>
+                            <key name="0002" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000012" />
+                            </key>
+                            <key name="0003" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="000000000000000F" />
+                            </key>
+                            <key name="0004" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000010" />
+                            </key>
+                        </key>
+                        <key name="0006" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="Convert html headers to ## md" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="000000000000000A" />
+                            </key>
+                            <key name="0001" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="000000000000000D" />
+                            </key>
+                            <key name="0002" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="000000000000000C" />
+                            </key>
+                            <key name="0003" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="000000000000000B" />
+                            </key>
+                        </key>
+                        <key name="0007" description="">
+                            <value name="AddToMenu" type="qword" value="0000000000000001" />
+                            <value name="Name" type="text" value="Convert &lt;a ...&gt;...&lt;/a&gt; to .md" />
+                            <key name="0000" description="">
+                                <value name="Coll" type="qword" value="0000000000000000" />
+                                <value name="ID" type="qword" value="0000000000000011" />
+                            </key>
+                        </key>
+                    </key>
+                    <key name="PanelBatches" description="" />
+                </key>
+            </hierarchicalconfig>
+        </plugin>
+    </pluginsconfig>
+</farconfig>
