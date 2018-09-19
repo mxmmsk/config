@@ -1,0 +1,13 @@
+#mxmmsk account
+Host github.com-mxmmsk
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_mxmmsk
+Host gist.github.com
+    IdentityFile ~/.ssh/id_rsa_mxmmsk
+Host github.com-conemu
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_maximus5
+Host bitbucket.org
+    IdentityFile ~/.ssh/id_rsa_mxmmsk
