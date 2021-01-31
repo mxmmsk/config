@@ -6,7 +6,7 @@ RunLingvo() {
 
 catch_f11 := true
 
-#If catch_f11
+; If catch_f11
 ^F11::  ; Default hotkey is Ctrl+F11+F11
 
   ; Wait for key up
@@ -25,3 +25,9 @@ catch_f11 := true
   }
 
 Return
+
+
+; Emulate multimedia keys
+#F10:: Send {Media_Play_Pause}
+#F11:: Send {Media_Prev}
+#F12:: Send {Media_Next}
